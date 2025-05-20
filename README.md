@@ -31,8 +31,7 @@ A RESTful API system for managing products with features like authentication, se
 ## Installation
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd product-management-system
+git clone https://github.com/ndhuy2711/products-management
 ```
 
 2. Install dependencies:
